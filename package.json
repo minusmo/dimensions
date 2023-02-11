@@ -1,0 +1,22 @@
+{
+  "name": "dimensions",
+  "version": "1.0.0",
+  "description": "Dimensions is a UI Component framework for React.js The Design System is inspired from the concept of dimensions of mathematics.",
+  "main": "dimension.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minusmo/dimensions.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "HoJoon Eum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minusmo/dimensions/issues"
+  },
+  "homepage": "https://github.com/minusmo/dimensions#readme"
+}
