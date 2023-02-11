@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/minusmo/dimensions/issues"
   },
-  "homepage": "https://github.com/minusmo/dimensions#readme"
+  "homepage": "https://github.com/minusmo/dimensions#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
